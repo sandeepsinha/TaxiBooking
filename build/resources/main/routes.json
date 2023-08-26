@@ -1,0 +1,40 @@
+{
+  "routes": [
+    {
+      "source": {
+        "name": "PUNE"
+      },
+      "destination": {
+        "name": "MUMBAI"
+      },
+      "distance": "120"
+    },
+    {
+      "source": {
+        "name": "PUNE"
+      },
+      "destination": {
+        "name": "NASIK"
+      },
+      "distance": "200"
+    },
+    {
+      "source": {
+        "name": "MUMBAI"
+      },
+      "destination": {
+        "name": "GOA"
+      },
+      "distance": "350"
+    },
+    {
+      "source": {
+        "name": "PUNE"
+      },
+      "destination": {
+        "name": "NASIK"
+      },
+      "distance": "180"
+    }
+  ]
+}

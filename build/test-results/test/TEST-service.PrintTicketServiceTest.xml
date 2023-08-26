@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.PrintTicketServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-26T08:19:48" hostname="sandeeps-MBP.Dlink" time="0.3">
+  <properties/>
+  <testcase name="shouldPrintTicketDetails()" classname="service.PrintTicketServiceTest" time="0.3"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
